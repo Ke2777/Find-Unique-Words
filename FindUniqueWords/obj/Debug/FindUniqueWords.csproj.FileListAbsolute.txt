@@ -1,0 +1,3 @@
+C:\Users\Ke27\Pictures\oboi\FindUniqueWords-master\FindUniqueWords\obj\Debug\FindUniqueWords.csproj.AssemblyReference.cache
+C:\Users\Ke27\Pictures\oboi\FindUniqueWords-master\FindUniqueWords\obj\Debug\FindUniqueWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ke27\Pictures\oboi\FindUniqueWords-master\FindUniqueWords\obj\Debug\FindUniqueWords.csproj.CoreCompileInputs.cache
